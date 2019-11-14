@@ -10,5 +10,9 @@ public class Demo {
         System.out.println("大兄弟");
 
         System.out.println("大师兄");
+
+        System.out.println("大妹子");
+
+        System.out.println("xiaoyueyue");
     }
 }
