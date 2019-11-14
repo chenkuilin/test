@@ -8,5 +8,7 @@ public class Demo {
 
     public static void main(String[] args) {
         System.out.println("大兄弟");
+
+        System.out.println("大师兄");
     }
 }
